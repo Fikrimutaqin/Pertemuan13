@@ -20,7 +20,7 @@
 
 
 
-    $update="UPDATE articles SET judul='$title', penulis='$author', lead='$abstraksi', content='$content', waktu='$time' WHERE articleID ='$ID'";
+    $update="UPDATE articles SET judul='$title', penulis='$author', lead='$lead', content='$content', waktu='$time' WHERE articleID ='$ID'";
 
 
 
